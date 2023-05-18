@@ -1,0 +1,6 @@
+### JetBrains IDE
+.idea
+
+### NodeJS Modules
+node_modules
+*.lock
